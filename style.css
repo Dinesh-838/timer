@@ -1,0 +1,40 @@
+*{
+    color: black;
+    /* background-color: black; */
+    background: linear-gradient(to right,rgb(84, 189, 238),rgb(249, 249, 249));
+}
+
+.align-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+div{
+    margin-bottom: 15px;
+}
+
+#msg{
+    font-size: 30px;
+    color: rgb(5, 96, 99);
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-center button{
+    /* background-color: white;
+    color: black; */
+    border-radius: 7px;
+}
+
+/* .time{
+    
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+} */
